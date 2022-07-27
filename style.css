@@ -7,3 +7,12 @@ body{
 }
 
 /* Image Slider Custom CSS */
+
+
+/* Modal Section Custom CSS */
+.register-button{
+    margin-left: -100px;
+}
+.modal-body{
+    margin-top: -90px;
+}
