@@ -1,0 +1,9 @@
+/* Google Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFF;
+}
+
+/* Image Slider Custom CSS */
