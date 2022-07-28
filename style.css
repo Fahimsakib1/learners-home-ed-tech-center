@@ -6,8 +6,6 @@ body{
     background-color: #FFFF;
 }
 
-
-
 /* Discover Courses Section Custom CSS */
 .discover-courses-title{
     margin-top: 120px;
@@ -35,17 +33,19 @@ body{
 
 }
 
+.feedback-student-name{
+    margin-top: 15px;
+}
+
+
 .fa-star, .fa-star-half-stroke{
     color: orange;
-    font-size: 15px;
+    font-size: 16px;
 }
+
 
 .feedback-job-title{
     margin-top: -7px;
-}
-
-.feedback-student-name{
-    margin-top: 15px;
 }
 
 
