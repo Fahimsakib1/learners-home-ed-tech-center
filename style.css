@@ -6,6 +6,7 @@ body{
     background-color: #FFFF;
 }
 
+/* All Images */
 img{
     height: 100vh;
 }
@@ -41,12 +42,10 @@ img{
     margin-top: 15px;
 }
 
-
 .fa-star, .fa-star-half-stroke{
     color: orange;
     font-size: 16px;
 }
-
 
 .feedback-job-title{
     margin-top: -7px;
@@ -81,7 +80,6 @@ img{
     margin-top: 120px;
 }
 
-
 /* Footer Customized CSS  */
 .footer-section{
     margin-top: 100px;
@@ -94,30 +92,12 @@ img{
     margin-top: -14px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Media Query For small devices in Extreme Cases */
 @media screen and (max-width:765px){
 
     .image-slider{
         font-size: 40px;
+        
     }
 
 }
