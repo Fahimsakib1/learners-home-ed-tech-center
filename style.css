@@ -6,13 +6,45 @@ body{
     background-color: #FFFF;
 }
 
-/* Image Slider Custom CSS */
+/* Middle Section (Man With a Laptop) Custom CSS */
+
+
+
+
 
 
 /* Modal Section Custom CSS */
+.modal-section{
+    margin-top: 110px;
+}
 .register-button{
     margin-left: -100px;
 }
 .modal-body{
     margin-top: -90px;
+}
+.registration-button:hover{
+    color: white;
+    background-color: rgb(234, 246, 109);
+    border: 2px solid black;
+}
+
+
+/* Brand Logos Section */
+.brand-logos-section{
+    margin-top: 120px;
+}
+
+
+
+/* Footer Customized CSS  */
+.footer-section{
+    margin-top: 100px;
+}
+.footer-terms-and-condition{
+    text-decoration: none;
+    color: white;
+}
+.footer-email, .forter-mobile{
+    margin-top: -14px;
 }
