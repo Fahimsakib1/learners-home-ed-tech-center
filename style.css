@@ -92,14 +92,5 @@ img{
     margin-top: -14px;
 }
 
-/* Media Query For small devices in Extreme Cases */
-@media screen and (max-width:765px){
-
-    .image-slider{
-        font-size: 40px;
-        
-    }
-
-}
 
 
