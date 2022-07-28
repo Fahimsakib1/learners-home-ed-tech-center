@@ -9,7 +9,26 @@ body{
 /* Middle Section (Man With a Laptop) Custom CSS */
 
 
+/* Student Feedback Section Custom CSS */
+.rating-and-all{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 50px;
 
+}
+
+.fa-star, .fa-star-half-stroke{
+    color: orange;
+    font-size: 13px;
+}
+
+.feedback-job-title{
+    margin-top: -7px;
+}
+
+.feedback-student-name{
+    margin-top: 15px;
+}
 
 
 
