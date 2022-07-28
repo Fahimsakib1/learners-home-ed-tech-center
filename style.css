@@ -6,10 +6,28 @@ body{
     background-color: #FFFF;
 }
 
-/* Middle Section (Man With a Laptop) Custom CSS */
+
+
+/* Discover Courses Section Custom CSS */
+.discover-courses-title{
+    margin-top: 120px;
+}
+
+/* Man With Laptop Section Custom CSS */
+.man-with-laptop{
+    margin-top: 110px;
+}
+
+/* Successfull Students Section Custom CSS */
+.successfull-student-title{
+    margin-top: 110px;
+}
 
 
 /* Student Feedback Section Custom CSS */
+.student-feedback-title{
+    margin-top: 100px;
+}
 .rating-and-all{
     margin-top: 10px;
     margin-bottom: 5px;
@@ -19,7 +37,7 @@ body{
 
 .fa-star, .fa-star-half-stroke{
     color: orange;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .feedback-job-title{
@@ -29,7 +47,6 @@ body{
 .feedback-student-name{
     margin-top: 15px;
 }
-
 
 
 /* Modal Section Custom CSS */
@@ -49,11 +66,16 @@ body{
 }
 
 
+/* Frequently Asked Question Section Customized CSS */
+.frequently-asked-question-title{
+    margin-top: 120px;
+}
+
+
 /* Brand Logos Section */
 .brand-logos-section{
     margin-top: 120px;
 }
-
 
 
 /* Footer Customized CSS  */
